@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066459243456",
+    "project_id": "notificaciones-d94ea",
+    "storage_bucket": "notificaciones-d94ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066459243456:android:33b127b989f86084eade25",
+        "android_client_info": {
+          "package_name": "com.francocragnolini.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066459243456-kufbsc6seq8dfsvjdlq0cmead4seao97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.francocragnolini.notificaciones",
+            "certificate_hash": "f08f17733325e2ebe1ba454578f0ee8441e03e98"
+          }
+        },
+        {
+          "client_id": "1066459243456-cjlu189e3739q3nfqlgsf96nvvgufuob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDx5gx8FpBzHhWgwA2vk4To9X05NWONrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066459243456-cjlu189e3739q3nfqlgsf96nvvgufuob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
